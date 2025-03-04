@@ -5,7 +5,7 @@ Este repositorio documenta el desarrollo del proyecto Red-Forge-Toys, realizado 
 El proyecto abarca el análisis, diseño, simulación y validación de procesos clave dentro de la manufactura. Con un enfoque en la innovación tecnológica, se busca optimizar las etapas más críticas mediante la integración de celdas robotizadas y otras tecnologías de automatización, garantizando productos de alta calidad dirigidos principalmente al público infantil entre los 8 y 12 años.
 
 
-# Red Forge Toys  
+# Red Forge Toys - APM 2024-2
 
 ## 🚀 Innovación en Automatización para la Fabricación de Juguetes  
 
@@ -38,12 +38,12 @@ Desarrollo de herramientas digitales para la gestión de la producción, incluye
 
 ## 📂 Estructura del Repositorio  
 
-- `/documentacion/` → Informes, planes de trabajo y evaluación económica.  
-- `/diseños/` → Modelos CAD de los juguetes en formato editable.  
-- `/software/` → Aplicaciones y scripts para el control de producción.  
-- `/scada/` → Configuración y archivos del sistema de supervisión.  
-- `/plc/` → Código para los controladores lógicos programables.  
-- `/digital_factory/` → Modelos y simulaciones de la fábrica digital.  
+- `/Controladores industriales/` → Diagrama GRAFCET y codigo en ladder.  
+- `/Evaluacion economica/` → Excel con toda la información economica del proyecto.  
+- `/Gestion de Automatizacion/` → Diagramas VSM, claculo OEE y simulaciones en technomatix.  
+- `/Gestion de Proyecto/` → Cronogramas, canvas y EDT del proyecto. 
+- `/SCADA/` → Arquitectura de comunicaciones. 
+- `/Modelos Juguetes/` → Modelos de los juguetes.
 
 ## 📞 Contacto  
 
