@@ -39,11 +39,12 @@ Desarrollo de herramientas digitales para la gestión de la producción, incluye
 ## 📂 Estructura del Repositorio  
 
 - `/Controladores industriales/` → Diagrama GRAFCET y codigo en ladder.  
+- `/Digital Factory/` → Modelo de simulacion en NX.
 - `/Evaluacion economica/` → Excel con toda la información economica del proyecto.  
 - `/Gestion de Automatizacion/` → Diagramas VSM, claculo OEE y simulaciones en technomatix.  
 - `/Gestion de Proyecto/` → Cronogramas, canvas y EDT del proyecto. 
-- `/SCADA/` → Arquitectura de comunicaciones. 
 - `/Modelos Juguetes/` → Modelos de los juguetes.
+- `/SCADA/` → Arquitectura de comunicaciones. 
 
 ## 📞 Contacto  
 
